@@ -4,6 +4,14 @@
   <img src="./programming.svg" width="100"/>
 </div>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 <!--
 **mpoweredo/mpoweredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
