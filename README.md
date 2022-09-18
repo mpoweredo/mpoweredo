@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+H2{color:DarkOrange !important;}
+
 <div id="header" align="center">
   <img src="./programming.svg" width="100"/>
 </div>
