@@ -1,7 +1,7 @@
 <span align="center">
 
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<h1>Hello 👋, I'm (Paweł) mpoweredo 🚀</h1>
+<h1>Hello 👋, I'm mpoweredo 🚀</h1>
 <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
 <h3>:green_heart: A passionate frontend developer :green_heart:</h3>
 
